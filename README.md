@@ -23,7 +23,7 @@ Before running the project, ensure that you have the following dependencies inst
 You can install the required dependencies using the following command:
 
 ```bash 
-pip install transformers langchain chromadb torch langchain_community"
+pip install transformers langchain chromadb torch langchain_community
 ```
 ## RAGv2
 
