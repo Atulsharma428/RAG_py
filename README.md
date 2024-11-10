@@ -2,8 +2,8 @@
 This repro
 ## Table of Contents
 1. [Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder](#Better-RAG-with-Merger-Retriever-(LOTR)-and-Re-ranking-Retriever-(Long-Context-Reorder))
-2. [RAGv2: A Powerful Retrieval-Augmented Generation Model](#RAGv2:-A-Powerful-Retrieval-Augmented-Generation-Model)
-3. [LangChain-RAG: Retrieval-Augmented Generation with LangChain](#LangChain-RAG:Retrieval-Augmented-Generation-with-LangChain)
+2. [RAGv2](#RAGv2)
+3. [LangChain-RAG](#LangChain-RAG)
 
    
 ## Better RAG with Merger Retriever (LOTR) and Re-ranking Retriever (Long Context Reorder)
@@ -25,7 +25,7 @@ You can install the required dependencies using the following command:
 ```bash 
 pip install transformers langchain chromadb torch langchain_community"
 ```
-## RAGv2: A Powerful Retrieval-Augmented Generation Model
+## RAGv2
 
 ### Description
 
@@ -57,7 +57,7 @@ using this command -
 
 
 
-## LangChain-RAG: Retrieval-Augmented Generation with LangChain
+## LangChain-RAG
 
 ### Description
 
